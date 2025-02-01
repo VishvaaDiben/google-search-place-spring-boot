@@ -3,7 +3,7 @@
 ## Instruction
 
 ### Clone the app locally and mvn clean spring-boot:run
-
+Add google places api key from Google Console
 Open [http://localhost:8080/api/favorite-places](http://localhost:8080/api/favorite-places) to view it in your browser or test manually in postman.
 
 ## Project Description 
