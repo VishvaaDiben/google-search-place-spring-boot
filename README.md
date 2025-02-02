@@ -27,8 +27,8 @@ A server side Spring Boot app that serves as backend api for a client side React
 
 ### Todo
 
-1.Host in Netlify
-2.Separate api into microservices to scale:
-a.(CREATE & DELETE/UPDATE) in saving/delete favourites
-b.(READ/UPDATE) Different ways to retrieve favourite places
+1.Host in Netlify<br>
+2.Separate api into microservices to scale:<br>
+a.(CREATE & DELETE/UPDATE) in saving/delete favourites<br>
+b.(READ/UPDATE) Different ways to retrieve favourite places<br>
 c.(READ/UPDATE) way to retrieve favourite place details
